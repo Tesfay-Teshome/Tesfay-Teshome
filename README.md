@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 --><h1 align="center">Hello 👋, I'm Tesfay Teshome</h1>
 
 ```
-🔭 I’m currently working on Exporter company
-🌱 I’m currently learning ALX Software Engineering 
-📫 How to reach me: +251992846900 
-✍️ Email me tesfix2017@gmail.com 
+🔭 I’m a Feature CEO of Tes-Market Multi-Vendor Market Company
+🌱 I’m currently developing the Tes-Market Project
+📫 How to reach me: +256706137477
+✍️ Email me: tesfix2017@gmail.com 
 ```
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
